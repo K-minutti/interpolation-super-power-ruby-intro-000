@@ -4,4 +4,4 @@ def display_rainbow(colors)
   puts " #{R:[0]}"
 end
 
-puts display_rainbow(colors)
+display_rainbow
